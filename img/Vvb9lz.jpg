@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie8" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-010268-010541.css" type="text/css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<title>SpeculativeEdu | Landscape</title>
+	<meta name="description" content="SpeculativeEdu is an educational, project funded by ERASMUS+, the European Union programme for education, training, youth, and sport, with the aim of strengthening speculative design education by collecting and exchanging existing knowledge and experience whilst developing new methods in the field of speculative design.">
+	<meta name="keywords" content="speculative design, critical design, design fiction, discoursive design, education, workshop, summer school, symposium, exhibition">
+	<meta name="author" content="SpeculativeEdu">
+    <link rel="stylesheet" type="text/css" media="all" href="http://speculativeedu.eu/wp-content/themes/dummy/style.css?v1.2" id="main-stylesheet"/>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145314073-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145314073-2');
+</script>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="SpeculativeEdu &raquo; Landscape Category Feed" href="http://speculativeedu.eu/category/landscape/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://speculativeedu.eu/cms/wp-includes/css/dist/block-library/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://speculativeedu.eu/wp-content/plugins/speculativedumap/spedumap.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='LeafletCSS-css'  href='http://speculativeedu.eu/wp-content/plugins/speculativedumap/leaflet.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='LeafletClusterCSS-css'  href='http://speculativeedu.eu/wp-content/plugins/speculativedumap/MarkerCluster.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='LeafletClusterDefaulsCSS-css'  href='http://speculativeedu.eu/wp-content/plugins/speculativedumap/MarkerCluster.Default.css?ver=5.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://speculativeedu.eu/cms/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/cms/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7' id='jquery_scrollto-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/cms/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1' id='jquery-form-js'></script>
+<script type='text/javascript' id='mailchimpSF_main_js-js-extra'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/speculativeedu.eu\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7' id='mailchimpSF_main_js-js'></script>
+<link rel="https://api.w.org/" href="http://speculativeedu.eu/wp-json/" /><link rel="alternate" type="application/json" href="http://speculativeedu.eu/wp-json/wp/v2/categories/19" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://speculativeedu.eu/wp-content/uploads/2019/02/cropped-prof-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://speculativeedu.eu/wp-content/uploads/2019/02/cropped-prof-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://speculativeedu.eu/wp-content/uploads/2019/02/cropped-prof-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://speculativeedu.eu/wp-content/uploads/2019/02/cropped-prof-270x270.jpg" />
+</head>
+<body class="archive category category-landscape category-19">
+<div class="header">
+	<h1>SpeculativeEdu</h1>
+
+	<div class="main-nav">
+		<ul id="top-menu" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="http://speculativeedu.eu/">Home</a></li>
+<li id="menu-item-1000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1000"><a href="http://speculativeedu.eu/category/interviews/">Interviews</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://speculativeedu.eu/category/discoure/">Discourse</a></li>
+<li id="menu-item-2007" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-2007"><a href="http://speculativeedu.eu/category/landscape/" aria-current="page">Landscape</a></li>
+<li id="menu-item-2642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2642"><a href="http://speculativeedu.eu/category/case-studies/">CaseStudies</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="http://speculativeedu.eu/category/news/activities/">Activities</a></li>
+<li id="menu-item-2704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2704"><a href="http://speculativeedu.eu/partners/">Partners</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://speculativeedu.eu/about/">About</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://speculativeedu.eu/contact/">Contact</a></li>
+</ul>	</div>
+</div>
+
+	<div class="sadrzaj"><div class="text">
+	<h2>Landscape</h2>
+
+<img src="http://speculativeedu.eu/wp-content/uploads/2019/07/p01-1440x548.png" alt="" width="1440" height="548" class="alignnone topm size-large wp-image-1789" />
+
+			<h3>An overview of the Speculative Design landscape</h3>
+		<p>The first phase of the <strong>SpeculativeEdu</strong> project presents a description of the actual situation in Speculative Design education at the European level with an additional view of the practice context—showing examples of the most representative and relevant practices. By studying examples of design curricula, designers’ skills and competences, and by collecting existing educational practices (approaches, methods, tools) and “real life” case studies, project researchers have gained various resources to reflect on and develop new and upgraded educational concepts. This analysis will be the basis of the second phase of the project (working on the textbook, online repository and case-study exhibition).</p>
+<p>This page links to all other essays, which also include links to other resources/pages generated in the context of the SpeculativeEdu project.</p>
+<p>Essays included in the overview are:</p>
+<ol class="last">
+<li><a href="http://speculativeedu.eu/new-reflections-on-speculativity/" target="_blank" rel="noopener noreferrer">New reflections on speculativity</a>;</li>
+<li><a href="http://speculativeedu.eu/speculativeedu-survey-first-indications" target="_blank" rel="noopener noreferrer">SpeculativeEdu survey: first indications</a>;</li>
+<li><a href="http://speculativeedu.eu/an-overview-of-contemporary-speculative-practice/" target="_blank" rel="noopener noreferrer">An overview of contemporary speculative practice</a>;</li>
+<li><a href="http://speculativeedu.eu/category/landscape/fragments/" target="_blank" rel="noopener noreferrer">A fragmented history of speculative practice</a>;</li>
+<li><a href="http://speculativeedu.eu/approaches-methods-and-tools-for-speculative-design/" target="_blank" rel="noopener noreferrer">Analysis of existing approaches, methods and tools</a>;</li>
+<li><a href="http://speculativeedu.eu/critical-about-critical-and-speculative-design/" target="_blank" rel="noopener noreferrer">Reflections on criticism of speculative practice</a>.</li>
+</ol>
+<img loading="lazy" class="alignnone size-large wp-image-1790" src="http://speculativeedu.eu/wp-content/uploads/2019/07/p02-1440x548.png" alt="" width="1440" height="548" srcset="http://speculativeedu.eu/wp-content/uploads/2019/07/p02.png 1440w, http://speculativeedu.eu/wp-content/uploads/2019/07/p02-960x365.png 960w, http://speculativeedu.eu/wp-content/uploads/2019/07/p02-768x292.png 768w" sizes="(max-width: 1440px) 100vw, 1440px" />
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/approaches-methods-and-tools-for-speculative-design/" rel="bookmark" title="Read: Approaches, methods and tools for Speculative Design">Approaches, methods and tools for Speculative Design</a></h3>
+	<p>A look into Speculative Design approaches, methods and tools and introduction to the building of the online repository by Salvatore Iaconesi.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/speculativeedu-survey-first-indications/" rel="bookmark" title="Read: SpeculativeEdu Survey: first indications">SpeculativeEdu Survey: first indications</a></h3>
+	<p>Ingi Helgason sums up early indications from our SpeculativeEdu survey on the Speculative Design education landscape.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/an-overview-of-contemporary-speculative-practice/" rel="bookmark" title="Read: An overview of contemporary speculative practice">An overview of contemporary speculative practice</a></h3>
+	<p>A tour d&#8217;horizon of SpeculativeEdu&#8217;s investigation into contemporary Speculative Design practice by Julian Hanna.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/new-reflections-on-speculativity/" rel="bookmark" title="Read: New Reflections on Speculativity">New Reflections on Speculativity</a></h3>
+	<p>Overview of the Speculative Design approach with the reflections on the personal practice by the SpeculativeEdu coordinator Ivica Mitrović.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/critical-about-critical-and-speculative-design/" rel="bookmark" title="Read: Critical about Critical and Speculative Design">Critical about Critical and Speculative Design</a></h3>
+	<p>Thoughts on critics of Critical and Speculative Design at the intersection of critical reflection and pedagogic practice by Matt Ward.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/other-worlds/" rel="bookmark" title="Read: Other Worlds">Other Worlds</a></h3>
+	<p>The first in a series of historical fragments for Speculative Design by James Auger, Michael Smyth, Ingi Helgason and Julian Hanna.</p>
+	</div>
+
+		<div class="post">
+	<h3><a href="http://speculativeedu.eu/the-radical-design-movement/" rel="bookmark" title="Read: The Radical Design Movement">The Radical Design Movement</a></h3>
+	<p>More essential history for Speculative Design by Michael Smyth.</p>
+	</div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+	<div class="mono">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2018/12/EU.png"/>
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/erasmus.png"/>
+		<a href="https://www.umas.unist.hr/en/" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/unist.png"/></a>
+		<a href="https://www.gold.ac.uk/" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/goldsmith.png"/></a>
+		<a href="https://www.m-iti.org/" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/madeira.png"/></a>
+		<a href="https://www.napier.ac.uk" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/napier.png"/></a>
+		<a href="https://www.he-r.it/" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/her.png"/></a>
+		<a href="http://transmedia-design.me/" target="_blank">
+		<img src="http://speculativeedu.eu/wp-content/uploads/2019/01/itd.png"/></a>
+		<p>This project has been funded by the Erasmus+ Programme of the European Union.</p>
+		<p>This publication [communication] reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>
+	</div>
+	<div class="soc">
+		<p><a class="facebook" href="https://www.facebook.com/SpeculativeEdu" target="_blank" rel="noopener">Facebook</a> <a class="twitter" href="https://twitter.com/speculativeedu" target="_blank" rel="noopener">Twitter</a> <a class="instagram" href="https://www.instagram.com/speculativeedu/" target="_blank" rel="noopener">Instagram</a> <a class="linkedin" href="http://www.linkedin.com/company/speculativeedu/" target="_blank" rel="noopener">LinkedIn</a></p>
+	</div>
+</div>
+
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/speculativedumap/leaflet.js?ver=1.1' id='Leaflet-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/speculativedumap/d3.min.js?ver=1.1' id='D3-js'></script>
+<script type='text/javascript' id='script-js-extra'>
+/* <![CDATA[ */
+var scriptParams = {"CSVURL":"https:\/\/raw.githubusercontent.com\/speculativeedu\/The-SpeculativeEdu-Online-Repository\/master\/Map\/EducationInitiatives.csv","MarkerColor":"#ed143d"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/speculativedumap/js/spedumap.js?ver=1.1' id='script-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/speculativedumap/leaflet.markercluster.js?ver=1.1' id='LeafletCluster-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/ithemes-security-pro/core/modules/wordpress-tweaks/js/blankshield/blankshield.min.js?ver=4122' id='blankshield-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/ithemes-security-pro/core/modules/wordpress-tweaks/js/block-tabnapping.min.js?ver=4122' id='itsec-wt-block-tabnapping-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.5' id='page-links-to-js'></script>
+<script type='text/javascript' src='http://speculativeedu.eu/cms/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+
+</body>
+</html>
